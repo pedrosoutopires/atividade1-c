@@ -2,6 +2,7 @@
 
 int main() {
     float lado, area;
+    
     printf("Digite o lado do quadrado: \n");
     scanf("%f", &lado);
 
