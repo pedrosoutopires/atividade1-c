@@ -2,6 +2,7 @@
 
 int main() {
     int ferraduras, cavalos;
+    
     printf("Digite o numero de cavalos: ");
     scanf("%d", &cavalos);
 
