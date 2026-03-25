@@ -10,7 +10,7 @@ int main() {
 
     carlos = conta/3;
     andre = conta/3;
-    felipe = (conta/3) + (conta/3 - andre) + (conta/3 - carlos);
+    felipe = conta - (carlos + andre);
 
     printf("O valor da conta para Carlos e: %d", carlos);
     printf("\nO valor da conta para Andre e: %d", andre);
