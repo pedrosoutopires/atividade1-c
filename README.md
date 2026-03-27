@@ -4,6 +4,8 @@ Este repositório contém exercícios desenvolvidos durante a disciplina de prog
 
 ## Lista de Exercícios
 
+## Parte 2: Escrever códigos de programas
+
 1. Cálculo da área de um quadrado  
 2. Cálculo de reajuste salarial  
 3. Cálculo de ferraduras para cavalos  
@@ -21,6 +23,13 @@ Este repositório contém exercícios desenvolvidos durante a disciplina de prog
 15. Cálculo de desconto em produto  
 16. Mistura de refresco (água e suco)  
 17. Cálculo da altura de um prédio por sombras  
+
+## Parte 2: Funções
+
+1. Converter celsius para fahrenheit
+2. Calcular a área de um circulo
+3. Converter horas e minutos para minutos
+4. Calcular hipotenusa
 
 ## Objetivo
 
